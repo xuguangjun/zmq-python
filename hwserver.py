@@ -15,3 +15,6 @@ def main():
 
     responser.close()
     context.term()
+
+if __name__ == "__main__":
+    main()
